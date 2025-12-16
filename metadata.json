@@ -1,0 +1,5 @@
+{
+  "name": "CIX ID - Movie Booking",
+  "description": "A modern, responsive movie ticket booking application featuring OMDB integration, seat selection, and digital ticketing.",
+  "requestFramePermissions": []
+}
